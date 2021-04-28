@@ -21,4 +21,10 @@ Brian Bondy is CTO of Brave and was part of the Mozilla team under Brendan.
 
 * Brave's potential market is massive with an average of 4.5 billion daily internet users. Google and Facebook who combined had add revenue of approximately 231 billion and together represent $2.3 trillion dollars of market cap. The online and mobile add market are massive. Brave is focusing on privacy, any internet user that is tired of having their data tracked across the internet is a prime target for using brave. One of the more interesting things about Brave's approach is that it goes right to the heart of how Google and Facebook make there money, with up to 60% of their earnings coming from advertisers. Unless Google and Facebook want to completely change their main business model, Brave is really alone in the space of compensating users for there ad viewing time.
 
-* Brave browser uses the Basic Attention Token cryptocurrency to compensate user's for their eyes and add viewing time
+* Brave browser uses the Basic Attention Token cryptocurrency to compensate user's for their add viewing. Brave is built on top of Chromium so it looks and feels very similar to the worlds most popular browser Google Chrome. The back end technologies that power Chrome, include Blink rendering engine and the V8 Javascript engine also power Brave. 
+
+# Landscape
+
+* Brave has pushed a new advertising framework into the advertising industry. Ad tech that reincentivizes users attention and advertisers like never before. The Brave browser has tiny market share compared to Google Chrome and even smaller browsers like Safari but has been growing users rapidly in browser space.
+
+* The trend for advertising is growing quickly in the online and mobile space. Just today Facebook and Google both reported better than expected earnings on higher add revenue. 
