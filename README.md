@@ -1,5 +1,8 @@
 # Homework-1
-Fintech Case Study 
+Fintech Case Study   
+
+![Brave](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY98ndaU0l2l4EwIVim2_5c_ogLqKnQNi_l_wqheBCih-3WEmTtL1bQtKe-zCZGeWYoZw&usqp=CAU)
+
 
 # Brave and the Basic Attention Token
 
@@ -27,4 +30,4 @@ Brian Bondy is CTO of Brave and was part of the Mozilla team under Brendan.
 
 * Brave has pushed a new advertising framework into the advertising industry. Ad tech that reincentivizes users attention and advertisers like never before. The Brave browser has tiny market share compared to Google Chrome and even smaller browsers like Safari but has been growing users rapidly in browser space.
 
-* The trend for advertising is growing quickly in the online and mobile space. Just today Facebook and Google both reported better than expected earnings on higher add revenue. 
+* The trend for advertising is growing quickly in the online and mobile space. Just today Facebook and Google both reported better than expected earnings on higher advertising revenue. 
