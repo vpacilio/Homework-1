@@ -30,4 +30,47 @@ Brian Bondy is CTO of Brave and was part of the Mozilla team under Brendan.
 
 * Brave has pushed a new advertising framework into the advertising industry. Ad tech that reincentivizes users attention and advertisers like never before. The Brave browser has tiny market share compared to Google Chrome and even smaller browsers like Safari but has been growing users rapidly in browser space.
 
-* The trend for advertising is growing quickly in the online and mobile space. Just today Facebook and Google both reported better than expected earnings on higher advertising revenue. 
+* The trend for advertising is growing quickly in the online and mobile space. Just today Facebook and Google both reported better than expected earnings on higher advertising revenue. According to statista online advertising revenue grew from a $26 billion dollar industry in 2010 to a $139 billion dollar industry in 2020. Another key piece of the advertising landscape is user privacy. Users have grown more concerned over their online privacy, in a 2019 Pew study of 4,272 adults surveyed 81% of respondents said they have little of no control over their user data companies collect online.
+
+* The internet browser space is heavily dominated by Google and their browser google chrome, they have about 64% market share. The next largest browser is apple's safari with about 19%. 
+
+# Results
+
+* Overall the company has grown expontially since inception. Brave curently has 29 million monthly active users and 9.8 million daily users. Basic Attention Token is in 12 million unique wallet addresses. Brave has had 2,500 different ad campains run with 400 plus unique advertisers to date. Brave is currently operating in over 190 countries around the world. 
+
+* The best overall metric for browser usage should be the amount of users, daily or monthly. Brave has grown their user base to 29 million monthly users and 9.8 daily users as of April 2021.
+
+* Comparably speaking Brave is tiny. Compared to Google Chrome's 64%, Safari's 19% and Firefox's 4% market share of the nearly 4.5 billion daily interent users Brave's .002% doesn't compare. 
+
+# Recommendations
+
+* I think one of the biggest use cases for BAT is a pay per article transaction within the Brave browser.
+Being able to usefully and seemlessly spend BAT on content without needing to sign up with a credit and then subscribe for a monthly fee would eliminate a huge point of sale transaction barrier. I would happily pay a fraction of a BAT for content behind a paywall but I'm not willing to spend $5 a month for 7 deifferent websites to read 2 articles a month. Pay per article will add value to both creators and consumers of content. Websites or content creators can continue to keep the subsrciption model but adding a pay per transaction model seems like a great value add for all parties. 
+
+* The best way to add a pay per transaction model is using BAT. Cryptocurrency is very low fee compared to Visa's 1-3% transaction fee per purchase. The ability to have a crypto wallet within your Brave browser enables you to seemlessly browse the web paying as you go for articles or content you are interested. 
+
+
+
+
+
+
+
+
+
+
+
+# Addendum 
+
+[Basic attention Token](https://basicattentiontoken.org/)
+
+[Brave](https://brave.com/)
+
+[Statista](https://www.statista.com/statistics/268254/market-share-of-internet-browsers-worldwide-since-2009/)
+
+[Pew research](https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/)
+
+
+
+
+
+
