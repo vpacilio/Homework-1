@@ -50,7 +50,10 @@ Being able to usefully and seemlessly spend BAT on content without needing to si
 * The best way to add a pay per transaction model is using BAT. Cryptocurrency is very low fee compared to Visa's 2-4% transaction fee per purchase. The ability to have a crypto wallet within your Brave browser enables you to seemlessly browse the web paying as you go for articles or content you are interested. 
 
 
+# Conclusion
 
+* I think every web user should be more concerned about their data and privacy while moving across the internet.
+Companies like Google and Facebook make incredible amounts of money tracking and selling their users data to third party vendors. Brave seeks to provide a more secure and incentivized browsing experience by both not tracking your data and compensating you for your attention when viewing ads on the platform. To me this is a fantastic idea and I'm suprised it hasn't cuaught on faster. People should be fed up with the watchful eye of large corporations watching you 24/7 as you move across the internet. 
 
 
 
@@ -61,7 +64,7 @@ Being able to usefully and seemlessly spend BAT on content without needing to si
 
 # Addendum 
 
-[Wikipedia]https://en.wikipedia.org/wiki/Brave_(web_browser)
+[Wikipedia](https://en.wikipedia.org/wiki/Brave_(web_browser)
 
 [Computer world](https://www.computerworld.com/article/3292619/the-brave-browser-basics-what-it-does-how-it-differs-from-rivals.html#:~:text=Brave%20is%20built%20atop%20Chromium,JavaScript%20engine%20%E2%80%94%20also%20power%20Brave.)
 
